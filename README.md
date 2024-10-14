@@ -15,7 +15,7 @@ Follow the instructions below to clone the repository, make the script executabl
 
 Start by cloning the repository to your local computer:
 
-git clone https://github.com/yourusername/HeyDay.git
+git clone https://github.com/elanahschmitz/HeyDay.git
 
 ### 2. Navigate to the Repository
 
