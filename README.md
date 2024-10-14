@@ -15,25 +15,25 @@ Follow the instructions below to clone the repository, make the script executabl
 
 Start by cloning the repository to your local computer:
 
-git clone https://github.com/elanahschmitz/HeyDay.git
+$ git clone https://github.com/elanahschmitz/HeyDay.git
 
 ### 2. Navigate to the Repository
 
 Move into the project folder:
 
-cd HeyDay
+$ cd HeyDay
 
 ### 3. Make the Script Executable
 
 Before you can run the script, it must have executable permissions:
 
-chmod +x heyday.sh
+$ chmod +x heyday.sh
 
 ### 4. Run the Script
 
 Run the script by typing the command below:
 
-./heyday.sh
+$ ./heyday.sh
 
 ### 5. Enter Your Name When Prompted
 
